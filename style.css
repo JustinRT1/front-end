@@ -8,7 +8,7 @@ body {
     font-family: 'Libre Baskerville', serif;
     letter-spacing: 1px;
     height: 100vh;
-    background-image: url(./Pics/AURORA\ PRINTS9.jpg);
+    background-image: url(./Pics/AURORA\ PRINTS9-min.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -95,7 +95,7 @@ input:focus~.barra::before {
 }
 
 #button:hover {
-    background-image: url(./Pics/AURORA\ PRINTS9.jpg);
+    background-image: url(./Pics/AURORA\ PRINTS9-min.jpg);
     background-size: cover;
     color: white;
 }
